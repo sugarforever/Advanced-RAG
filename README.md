@@ -15,3 +15,7 @@ It's simple, but of poor overall performance.
 In this tutorials (Advanced RAG), we will learn the techniques and best practices in RAG application development, that can improve the quality of the RAG.
 
 It's crucial to the success of a RAG application.
+
+## Episodes
+
+1. [RAG on Semi-structured data](./advanced_rag_01_semi_structured_data.ipynb)
