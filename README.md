@@ -18,4 +18,4 @@ It's crucial to the success of a RAG application.
 
 ## Episodes
 
-1. [RAG on Semi-structured data](./advanced_rag_01_semi_structured_data.ipynb)
+1. [RAG on Semi-structured data](./01_semi_structured_data.ipynb)
