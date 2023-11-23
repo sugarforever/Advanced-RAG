@@ -19,3 +19,4 @@ It's crucial to the success of a RAG application.
 ## Episodes
 
 1. [RAG on Semi-structured data](./01_semi_structured_data.ipynb)
+2. [Multi-Modal RAG](./02_multi_modal.ipynb)
