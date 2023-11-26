@@ -20,4 +20,4 @@ It's crucial to the success of a RAG application.
 
 1. [RAG on Semi-structured data](./01_semi_structured_data.ipynb)
 2. [Multi-Modal RAG](./02_multi_modal.ipynb)
-3. [Multi-Document RAG with LlamaIndex](./03_llama-index_multi_doc_agent.ipynb)
+3. [Multi-Document RAG with LlamaIndex](./03_llama_index_multi_doc_agent.ipynb)
